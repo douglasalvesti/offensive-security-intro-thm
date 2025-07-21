@@ -20,7 +20,8 @@ Ao final, obtive acesso à conta bancária fictícia da "Mrs. G. Benjamin", onde
 
 | Etapa | Print |
 |-------|-------|
-| Página hackeada com sucesso | ![[Hack FakeBank](./imagens/fakebank-completo.png)|
+| Página hackeada com sucesso | ![[![Print do FakeBank Hackeado](./imagens/fakebank-completo.png)
+)|
 | Resposta do desafio | ![Bank-Hacked](imagens/resposta-bank-hacked.png) |
 
 ## 📚 Aprendizados
